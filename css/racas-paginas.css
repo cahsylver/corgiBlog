@@ -1,0 +1,18 @@
+.conteudo-racas {
+    width: 605px;
+    margin: 40px auto;
+}
+.conteudo-racas h2 {
+    font-family: Pacifico, cursive;    
+    font-size: 30px; 
+    text-align: center; 
+    margin: 0px 0px 20px ; 
+}
+.conteudo-racas p {
+    font-family: 'Times New Roman', Times, serif; 
+    margin: 20px 0 10px;
+    text-align: justify;
+    font-size: 1.25rem;
+    line-height: 29px;
+    text-indent: 30px;
+}  

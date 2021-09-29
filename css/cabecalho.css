@@ -1,0 +1,33 @@
+.cabecalho {
+	background: #ece6e6;
+	padding: 1rem 0;
+
+	width: 100vw;
+	box-sizing: border-box;
+
+	display: flex;
+	justify-content: space-around; 
+	align-items: center; 
+	
+	position: relative;
+	
+}
+.cabecalho li {
+	font-family: Pacifico, cursive; 
+	display: inline-flex;
+	margin: 0rem 0rem 0rem 1rem;
+}
+.cabecalho a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 1.2rem;
+	text-decoration: none;
+}
+.cabecalho a:hover {
+	color: #C78C19;
+	text-decoration: underline;
+}
+
+
+

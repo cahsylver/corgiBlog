@@ -1,0 +1,23 @@
+.racas-lista { 
+    width: 100%;   
+    text-align: center;
+    padding: 5rem 0rem;    
+}
+
+.racas-lista li { 
+    display: inline-block; 
+    text-align: center;
+    padding: 25px;
+    cursor: pointer;     
+}
+.racas-lista a {
+  
+    color: #636161;
+    text-decoration: underline;        
+}
+.racas-lista h2{
+    font-family: Pacifico, cursive; 
+    font-size: 1.3rem;
+    line-height: normal; 
+    font-weight: 700;
+}

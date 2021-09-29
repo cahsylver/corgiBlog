@@ -1,0 +1,25 @@
+.conteudo-agenda {     
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+.conteudo-agenda h2{
+    text-align: center; 
+    padding: 1.2rem 1rem;
+    font-size: 1.4rem; 
+    font-weight: bold;              
+}
+.conteudo-agenda table, td{
+    font-size: 1.2rem; 
+    margin: 0px auto;
+    border: 1px solid;                   
+}
+.conteudo-agenda thead { 
+    background: #868282;;
+    color: white;               
+    font-weight: bold;
+}
+.conteudo-agenda td, th {    
+        border: 1px solid #000000;
+        padding: 1.3rem 1rem;
+    
+}   

@@ -1,0 +1,16 @@
+.banner { 
+    background-image: url('../img/banner.1.jpg');
+    background-size: cover;
+    height: 30rem;
+    width: 100vw;  
+    max-height:480px;
+    padding: 1rem 0rem 0rem;
+}
+.banner_titulo {
+    color: #fdfdfd;
+    font-family: Pacifico, cursive;
+    font-size: 3rem;  
+    text-shadow: 0rem 0rem 1rem rgba(0, 0, 0, 0.75);    
+    text-align: center;
+    
+}
