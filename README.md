@@ -6,4 +6,4 @@ https://carinasilveira.notion.site/Trabalho-Pr-tico-CSS-a4b1ea0101644a8b80740e9e
 
 <h2> Clique no link  abaixo para visualizar a página </h2>
 
-https://cahsylver.github.io/corgiBlog/
+https://carinasylver.github.io/corgiBlog/
